@@ -600,8 +600,9 @@ footer p{
     padding-right: 4%;
   }
   .kasuga-txt h2{
-    font-size: 10rem;
+    font-size: 8rem;
     font-weight: 600;
+    color: #262626;
   }
   .kasuga-img {
     width: 35%;
